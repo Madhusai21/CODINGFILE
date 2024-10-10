@@ -1,8 +1,8 @@
-
+ #c+++
 #include <iostream>
 using namespace std;
 template< class T>
-class memo
+class memos
 {
     private:
      T x;
