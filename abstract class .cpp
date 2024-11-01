@@ -28,3 +28,4 @@ int main() {
     cout << "Circle area: " << c.area() << endl;
     return 0;
 }
+}
